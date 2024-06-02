@@ -41,6 +41,8 @@ Data to be included in the email
   <li>Registred Email</li>
   <li>Webhook Url</li>
   <li>URL to redirect user after payment</li>
+  <li>Server IP Address</li>
+
 </ul>
 
 <hr>
